@@ -2,7 +2,7 @@
 where are you from?
 I am from dhanbad
 can you explain about stress?
- 
+ stress = load/area
 
 
  
